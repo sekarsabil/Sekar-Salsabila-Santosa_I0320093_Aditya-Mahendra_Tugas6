@@ -1,3 +1,5 @@
+# Pengulangan String Menggunakan While
+
 n = 10
 i = 1
 
